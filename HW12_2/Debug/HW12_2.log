@@ -1,0 +1,5 @@
+﻿  HW12_2.c
+C:\Users\seple\source\repos\LABHW12\HW12_2\HW12_2.c(12,7): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seple\source\repos\LABHW12\HW12_2\HW12_2.c(12,17): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seple\source\repos\LABHW12\HW12_2\HW12_2.c(14,17): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  HW12_2.vcxproj -> C:\Users\seple\source\repos\LABHW12\Debug\HW12_2.exe
